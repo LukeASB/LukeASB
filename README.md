@@ -2,7 +2,7 @@
 - BSc Computer Science Graduate, Software Engineer
 - Interests: Life: Power-Bodybuilding, Judo, anything fitness | Tech-Side: C#, JavaScript, SQL
 - Socials: https://www.linkedin.com/in/luke-sloane-bulger/
-- Website(s): https://www.lukesloanebulger.co.uk/, https://www.lukelifts.com
+- Website(s): https://www.lukelifts.com
 
 <!---
 LukeASB/LukeASB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
